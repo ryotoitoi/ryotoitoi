@@ -1,4 +1,4 @@
-Hi! I'm ryotoitoi!
+Hi ! I'm ryotoitoi !
 
-- I'm in hit-u.
-- I study Causal Inference.
+- 🗺 I'm in hit-u.
+- 🗿 I study Causal Inference.
