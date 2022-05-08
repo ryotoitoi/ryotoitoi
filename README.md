@@ -1,4 +1,3 @@
 Hi ! I'm ryotoitoi !
 
-- 🗺 I'm in hit-u.
-- 🗿 I study Causal Inference.
+- 🗿 I'm interested in  Causal Inference and Machine Learning!!
